@@ -1,0 +1,6 @@
+remote_theme: thuhcsi/slate
+title: Context-aware Coherent Speaking Style Prediction with Hierarchical Transformers for Audiobook Speech Synthesis
+description: Submitted to ICASSP 2023.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
