@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Abstract
+<!-- # Abstract
 
 Recent advances in text-to-speech have signiﬁcantly improved the expressiveness of synthesized speech. However, it is still challenging to generate speech with contextually appropriate and coherent speaking style for multi-sentence text in audiobooks. In this paper, we propose a context-aware coherent speaking style prediction method for audiobook speech synthesis. To predict the style embedding of the current utterance, a hierarchical transformer-based context-aware style predictor with a mixture attention mask is designed, considering both text-side context information and speech-side style information of previous speeches. Based on this, we can generate long-form speech with coherent style and prosody sentence by sentence. Objective and subjective evaluations on a Mandarin audiobook dataset demonstrate that our proposed model can generate speech with more expressive and coherent speaking style than baselines, for both single-sentence and multi-sentence test.
 
@@ -15,7 +15,7 @@ Recent advances in text-to-speech have signiﬁcantly improved the expressivenes
     padding: 2px;"> Fig.1: The architecture of the proposed model. </div>
 </center>
 
-
+ -->
 
 # Subjective Evaluation
 
